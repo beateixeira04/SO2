@@ -69,7 +69,3 @@ Contributing
 Grade
 
 20.01/20.50
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
